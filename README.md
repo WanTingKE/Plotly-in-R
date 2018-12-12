@@ -12,4 +12,5 @@ https://plot.ly/r/getting-started/
 ![image](https://user-images.githubusercontent.com/45618275/49850060-28fa5f00-fe17-11e8-90b3-af8497632d4e.png)
 
 <h2>Example:
+
 ![image](https://user-images.githubusercontent.com/45618275/49850302-e71de880-fe17-11e8-8465-b2da13a80621.png)
