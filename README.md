@@ -14,3 +14,9 @@ https://plot.ly/r/getting-started/
 <h2>Example:
 
 ![image](https://user-images.githubusercontent.com/45618275/49850302-e71de880-fe17-11e8-8465-b2da13a80621.png)
+
+<h3>Or you can set "private"
+
+![image](https://user-images.githubusercontent.com/45618275/49850699-6f50bd80-fe19-11e8-9c71-b587fb7d4eb3.png)
+
+![plotly_scatter3d_example_trim](https://user-images.githubusercontent.com/45618275/49853209-6663ea00-fe21-11e8-8275-d3b0a8dc3f50.gif)
