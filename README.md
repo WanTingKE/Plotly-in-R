@@ -15,4 +15,9 @@ https://plot.ly/r/getting-started/
 
 ![image](https://user-images.githubusercontent.com/45618275/49850302-e71de880-fe17-11e8-8465-b2da13a80621.png)
 
+<h3>Note: If you don't want to upload to the website, just don't run "Sys.setenv()" and "chart_link()"
+
 ![plotly_scatter3d_example_trim](https://user-images.githubusercontent.com/45618275/49853209-6663ea00-fe21-11e8-8275-d3b0a8dc3f50.gif)
+
+![image](https://user-images.githubusercontent.com/45618275/49915868-e39b6780-fed2-11e8-8e95-5bd09f500218.png)
+
