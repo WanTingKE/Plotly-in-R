@@ -1,4 +1,4 @@
-# Plotly-in-R
+# Scatter3D in Plot.ly package
 https://plot.ly/r/getting-started/
 
 ![image](https://user-images.githubusercontent.com/45618275/49849889-7924f180-fe16-11e8-8732-d4d452ec9f6d.png)
