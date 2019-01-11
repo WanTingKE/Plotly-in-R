@@ -1,4 +1,4 @@
-# If you don't want to share the plot, just don't run Sys.setenv()
+# If you don't want to upload the plot, just don't run Sys.setenv()
 # keyin your username
 Sys.setenv("plotly_username"="username")
 
@@ -10,6 +10,7 @@ plot_scatter3D<-plot_ly(file,x=~RED, y=~NIR, z=~date, color=~TYPE, color=c("#FF9
     %>% add_markers() %>% 
     layout(scene=list(xaxis=list(title="RED"), yaxis=list(title="NIR"),zaxis=list(title="date")))   
     
+# Preview the plot on the website    
 chart_link=api_create(plot_scatter3D,filename="plotly_scatter3D")
 chart_link
 
