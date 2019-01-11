@@ -1,0 +1,15 @@
+# If you don't want to share the plot, just don't run Sys.setenv()
+# keyin your username
+Sys.setenv("plotly_username"="username")
+
+# the api key will updated every time when you turn Plot.ly website on
+Sys.setenv("plotly_api_key"="api_key")
+
+library(plotyly)
+plot_scatter3D<-plot_ly(file,x=~RED, y=~NIR, z=~date, color=~TYPE, color=c("#FF990","#33FF66"))
+    %>% add_markers() %>% 
+    layout(scene=list(xaxis=list(title="RED"), yaxis=list(title="NIR"),zaxis=list(title="date")))   
+    
+chart_link=api_create(plot_scatter3D,filename="plotly_scatter3D")
+chart_link
+
